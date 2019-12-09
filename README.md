@@ -4,6 +4,7 @@ Greedy
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](src/medium/GroupPeopleGivenGroupSizeTheyBelongTo.java)|Medium|
+|1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[Java](src/medium/MinimumSwapsToMakeStringsEqual.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](src/medium/PartitionLabels.java)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Java](src/easy/LastStoneWeight.java)|Easy|
