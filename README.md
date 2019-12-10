@@ -13,6 +13,7 @@ Greedy
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](src/medium/BoatsToSavePeople.java)|Medium|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](src/medium/AdvantageShuffle.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
+|767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](src/medium/ReorganizeString.java)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](src/medium/PartitionLabels.java)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](src/medium/RemoveKDigits.java)|Medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Java](src/medium/GasStation.java)|Medium|
