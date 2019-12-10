@@ -12,6 +12,7 @@ Greedy
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](src/medium/BoatsToSavePeople.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](src/medium/PartitionLabels.java)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](src/medium/RemoveKDigits.java)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Java](src/easy/LastStoneWeight.java)|Easy|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](src/easy/TwoCityScheduling.java)|Easy|
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[Java](src/easy/MaximizeSumOfArrayAfterKNegations.java)|Easy|
