@@ -8,6 +8,7 @@ Greedy
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Java](src/medium/NumberOfBurgersWithNoWasteOfIngredients.java)|Medium|
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[Java](src/medium/MinimumSwapsToMakeStringsEqual.java)|Medium|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)|[Java](src/medium/PreviousPermutationWithOneSwap.java)|Medium|
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](src/medium/BrokenCalculator.java)|Medium|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Java](src/medium/StringWithoutAAAOrBBB.java)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](src/medium/BoatsToSavePeople.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
