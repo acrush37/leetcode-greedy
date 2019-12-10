@@ -7,6 +7,7 @@ Greedy
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](src/medium/GroupPeopleGivenGroupSizeTheyBelongTo.java)|Medium|
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Java](src/medium/NumberOfBurgersWithNoWasteOfIngredients.java)|Medium|
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[Java](src/medium/MinimumSwapsToMakeStringsEqual.java)|Medium|
+|1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Java](src/medium/CarPooling.java)|Medium|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)|[Java](src/medium/PreviousPermutationWithOneSwap.java)|Medium|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](src/medium/BrokenCalculator.java)|Medium|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Java](src/medium/StringWithoutAAAOrBBB.java)|Medium|
