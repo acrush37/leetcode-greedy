@@ -11,6 +11,7 @@ Greedy
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](src/medium/BrokenCalculator.java)|Medium|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Java](src/medium/StringWithoutAAAOrBBB.java)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](src/medium/BoatsToSavePeople.java)|Medium|
+|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](src/medium/AdvantageShuffle.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](src/medium/PartitionLabels.java)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](src/medium/RemoveKDigits.java)|Medium|
