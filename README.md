@@ -3,6 +3,7 @@ Greedy
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Java](src/hard/CouplesHoldingHands.java)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/hard/JumpGameII.java)|Hard|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](src/medium/GroupPeopleGivenGroupSizeTheyBelongTo.java)|Medium|
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Java](src/medium/NumberOfBurgersWithNoWasteOfIngredients.java)|Medium|
