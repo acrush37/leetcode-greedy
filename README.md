@@ -3,6 +3,7 @@ Greedy
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Java](src/hard/MinimumKConsecutiveBitFlips.java)|Hard|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Java](src/hard/CouplesHoldingHands.java)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/hard/JumpGameII.java)|Hard|
 |1342|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](src/medium/ReduceArraySizeToHalf.java)|Medium|
