@@ -5,6 +5,7 @@ Greedy
 |---| ----- | -------- | ---------- |
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Java](src/hard/MinimumKConsecutiveBitFlips.java)|Hard|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Java](src/hard/CouplesHoldingHands.java)|Hard|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](src/hard/RemoveDuplicateLetters.java)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/hard/JumpGameII.java)|Hard|
 |1342|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](src/medium/ReduceArraySizeToHalf.java)|Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](src/medium/GroupPeopleGivenGroupSizeTheyBelongTo.java)|Medium|
