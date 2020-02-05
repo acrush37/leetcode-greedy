@@ -4,6 +4,7 @@ Greedy
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Java](src/hard/MinimumKConsecutiveBitFlips.java)|Hard|
+|927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](src/hard/ThreeEqualParts.java)|Hard|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Java](src/hard/CouplesHoldingHands.java)|Hard|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)|[Java](src/hard/SetIntersectionAtLeastTwo.java)|Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](src/hard/RemoveDuplicateLetters.java)|Hard|
