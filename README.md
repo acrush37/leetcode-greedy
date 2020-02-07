@@ -15,6 +15,7 @@ Greedy
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Java](src/medium/NumberOfBurgersWithNoWasteOfIngredients.java)|Medium|
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|[Java](src/medium/MinimumSwapsToMakeStringsEqual.java)|Medium|
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Java](src/medium/CarPooling.java)|Medium|
+|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)|[Java](src/medium/LargestValuesFromLabels.java)|Medium|
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)|[Java](src/medium/PreviousPermutationWithOneSwap.java)|Medium|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](src/medium/BrokenCalculator.java)|Medium|
 |955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)|[Java](src/medium/DeleteColumnsMakeSortedII.java)|Medium|
