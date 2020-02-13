@@ -20,6 +20,7 @@ Greedy
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](src/medium/BrokenCalculator.java)|Medium|
 |955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)|[Java](src/medium/DeleteColumnsMakeSortedII.java)|Medium|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)|[Java](src/medium/StringWithoutAAAOrBBB.java)|Medium|
+|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](src/medium/BagOfTokens.java)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](src/medium/BoatsToSavePeople.java)|Medium|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[Java](src/medium/AdvantageShuffle.java)|Medium|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](src/medium/ScoreAfterFlippingMatrix.java)|Medium|
