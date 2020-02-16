@@ -10,6 +10,7 @@ Greedy
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](src/hard/RemoveDuplicateLetters.java)|Hard|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Java](src/hard/Candy.java)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/hard/JumpGameII.java)|Hard|
+|1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)|[Java](src/medium/MaximumEventsCanBeAttended.java)|Medium|
 |1342|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](src/medium/ReduceArraySizeToHalf.java)|Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](src/medium/GroupPeopleGivenGroupSizeTheyBelongTo.java)|Medium|
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Java](src/medium/NumberOfBurgersWithNoWasteOfIngredients.java)|Medium|
