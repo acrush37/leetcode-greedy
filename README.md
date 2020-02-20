@@ -3,6 +3,7 @@ Greedy
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1354|[Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Java](src/hard/ConstructTargetArrayMultipleSums.java)|Hard|
 |1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|[Java](src/hard/MinimumTapsOpenWaterGarden.java)|Hard|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Java](src/hard/MinimumKConsecutiveBitFlips.java)|Hard|
 |927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](src/hard/ThreeEqualParts.java)|Hard|
