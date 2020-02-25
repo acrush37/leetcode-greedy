@@ -9,6 +9,7 @@ Greedy
 |927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](src/hard/ThreeEqualParts.java)|Hard|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Java](src/hard/CouplesHoldingHands.java)|Hard|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)|[Java](src/hard/SetIntersectionAtLeastTwo.java)|Hard|
+|630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[Java](src/hard/CourseScheduleIII.java)|Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Java](src/hard/RemoveDuplicateLetters.java)|Hard|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Java](src/hard/Candy.java)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/hard/JumpGameII.java)|Hard|
